@@ -65,19 +65,19 @@ msgstr "- Difendere questa regione avrà un malus di <0>{0}</0>."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:483
 msgid "-1 to every stat every 20 days in the same company, down to -3."
-msgstr ""
+msgstr "-1 per ogni statistica ogni 20 giorni nella stessa compagnia, fino a -3"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:135
 msgid "-10% on the wage they expect."
-msgstr ""
+msgstr "-10% sullo stipendio richiesto"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:136
 msgid "-20% on the wage they expect."
-msgstr ""
+msgstr "-20% sullo stipendio richiesto"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:134
 msgid "-5% on the wage they expect."
-msgstr ""
+msgstr "-5% sullo stipendio richiesto"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1805
 msgid "“Senior Worker” it is. It will do, for now."
@@ -179,7 +179,7 @@ msgstr ""
 #. placeholder {0}: damagesPercent(effects.allianceBonusDelta)
 #: src/components/_political/govType/govType.frontConfig.tsx:259
 msgid "{0} alliance bonus when fighting for an ally"
-msgstr ""
+msgstr "{0} bonus dell'alleanza quando combatti per un alleato"
 
 #. placeholder {0}: formatKm(homeDistanceKm)
 #: src/components/_layout/LayoutMapUserMenu.tsx:332
@@ -241,7 +241,7 @@ msgstr "{0} ore"
 #. placeholder {0}: employee.name
 #: src/components/_economy/employee/EmployeeNameTags.tsx:58
 msgid "{0} is waiting for your decision."
-msgstr ""
+msgstr "{0} sta aspettando una tua decisione"
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
@@ -277,7 +277,7 @@ msgstr ""
 #. placeholder {0}: itemName(rarity)
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:244
 msgid "{0} tool"
-msgstr ""
+msgstr "{0} strumento"
 
 #. placeholder {0}: user.data?.username
 #: src/pages/user/[userId]/companies.tsx:45
@@ -309,11 +309,11 @@ msgstr ""
 #. placeholder {0}: contract.unpaidHours
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:223
 msgid "{0}h unpaid"
-msgstr ""
+msgstr "{0}h non pagate"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:913
 msgid "{answerWithin} to answer"
-msgstr ""
+msgstr "{answerWithin} rispondi entro"
 
 #. placeholder {0}: states.length
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:214
@@ -1637,15 +1637,15 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1923
 msgid "{name} and {partnerName} are officially together, and it is the real thing."
-msgstr ""
+msgstr "{name} e {partnerName} sono ufficialmente fidanzati, e ci danno dentro"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1921
 msgid "{name} and {partnerName} are officially together. The whole workshop pretends to be surprised."
-msgstr ""
+msgstr "{name} e {partnerName} sono ufficialmente fidanzati. Tutti gli altri fanno finta di essere sorpresi."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:857
 msgid "{name} and {partnerName} are old friends now."
-msgstr ""
+msgstr "{name} e {partnerName} sono amici di vecchia dati ora"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1858
 msgid "{name} and {partnerName} blame each other for the ban. It is personal now."
@@ -1705,7 +1705,7 @@ msgstr ""
 
 #: src/components/_user/user/Level.tsx:137
 msgid "{nextLevelSkillPoints} Skill Points"
-msgstr ""
+msgstr "{nextLevelSkillPoints} Punti Abilità"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1891
 msgid "{partnerName} backs off. The fort stands."
@@ -1780,7 +1780,7 @@ msgstr "{savedPrestigeCount} punti ascensione attivi su questa abilità"
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:50
 msgid "{score}/{0} Rounds"
-msgstr "{score}/{0} round"
+msgstr "{score}/{0} Rounds"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:199
 msgid "{selectedCount, plural, one {Dismantle # item for} other {Dismantle # items for}}"
@@ -1788,7 +1788,7 @@ msgstr ""
 
 #: src/components/_economy/inventory/DismantleModal.tsx:307
 msgid "{selectedCount} selected"
-msgstr ""
+msgstr "{selectedCount} selezionati"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:54
 msgid "{step} every {perDays} days in the same company, up to {cap}."
@@ -1805,18 +1805,18 @@ msgstr ""
 #: src/components/_economy/employee/WorkforceSummary.tsx:273
 #: src/components/_economy/employee/WorkforceSummary.tsx:428
 msgid "{trainable} to train"
-msgstr ""
+msgstr "{trainable} Pronto all'addestramento"
 
 #. placeholder {0}: employee.potential
 #. placeholder {1}: employee.potentialMax
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:317
 msgid "{trainingsLeft} training sessions left ({0}/{1} used)."
-msgstr ""
+msgstr "{trainingsLeft} sessioni di addestramento rimaste ({0}/{1} usate)"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:482
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:121
 msgid "{value} days of experience"
-msgstr ""
+msgstr "{value} giorni di esperienza"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:128
 msgid "{value} km"
@@ -1846,7 +1846,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:529
 msgid "{who} leaves the company: {value}"
-msgstr ""
+msgstr "{who} ha lasciato l'azienda: {value}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:737
 msgid "{who} left: {value}"
@@ -1894,11 +1894,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:690
 msgid "{who}: asks for more pay"
-msgstr ""
+msgstr "{who}: chiede un aumento dello stipendio"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:702
 msgid "{who}: experience in {good} lost"
-msgstr ""
+msgstr "{who}: esperienza in {good} persa"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:428
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:668
@@ -3298,11 +3298,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2387
 msgid "A business opportunity"
-msgstr ""
+msgstr "opportunità d'investimento"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:656
 msgid "A call to arms"
-msgstr ""
+msgstr "Chiamata alle armi"
 
 #: src/components/_economy/employee/TrainingCardList.tsx:132
 msgid "A card's rarity is its outline as well as its colour: a circle is Common, and it gains an edge at every tier up to the Legendary gem."
@@ -8929,7 +8929,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:429
 msgid "Introduce yourself!"
-msgstr ""
+msgstr "Presentati!"
 
 #: src/components/_layout/LayoutMenu.tsx:99
 #: src/components/_layout/LayoutUserMenu.tsx:169
@@ -16691,7 +16691,7 @@ msgstr "Migliora il motore automatico"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:375
 msgid "Upgrade break room"
-msgstr ""
+msgstr "Potenzia la Sala Riposo"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:580
 msgid "Upgrade Company"
@@ -16707,7 +16707,7 @@ msgstr "Migliora il magazzino"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:463
 msgid "Upgrade the break room"
-msgstr ""
+msgstr "Potenzia la Sala Riposo"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:234
 msgid "Upgrade to supporter"
@@ -16732,7 +16732,7 @@ msgstr ""
 
 #: src/components/_economy/strategicResource/strategicResource.frontConfig.ts:25
 msgid "Uranium"
-msgstr ""
+msgstr "Uranio"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:760
 msgid "Use <0/>"
@@ -17101,7 +17101,7 @@ msgstr "Vota in un'elezione"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:151
 msgid "Vote in elections"
-msgstr ""
+msgstr "Vota alle elezioni"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:103
 msgid "Voter"
@@ -17110,7 +17110,7 @@ msgstr "Votante"
 #: src/components/_political/election/Election.tsx:130
 #: src/components/_political/election/Election.tsx:220
 msgid "Votes"
-msgstr ""
+msgstr "Voti"
 
 #: src/components/_social/poll/PollCard.tsx:435
 msgid "Voting closes now for everyone. This can't be undone."
@@ -17132,7 +17132,7 @@ msgstr "Salario modificato"
 
 #: src/components/_economy/employee/employeeTags.tsx:154
 msgid "Wage expectation"
-msgstr ""
+msgstr "Stipendio desiderato"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2216
 msgid "Wage reduction proposed"
@@ -18280,7 +18280,7 @@ msgstr ""
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:317
 msgid "Your offer <0>{price}</0>"
-msgstr ""
+msgstr "La tua offerta <0>{price}</0>"
 
 #: src/components/_economy/market/MarketHeader.tsx:14
 msgid "Your offers"
@@ -18330,7 +18330,7 @@ msgstr "Il tuo link referral"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:251
 msgid "Your reward"
-msgstr ""
+msgstr "La tua ricompensa"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1581
 msgid "Your team <0/> has been eliminated from the <1/>"
@@ -18346,7 +18346,7 @@ msgstr "La tua squadra:"
 
 #: src/components/_political/election/Election.tsx:230
 msgid "Your vote"
-msgstr ""
+msgstr "Il tuo Voto"
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
